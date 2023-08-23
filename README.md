@@ -1,6 +1,5 @@
 # The Office Data Analysis - README
 
-
 ## Overview
 The "The Office Data Analysis" project explores character interactions, sentiment, and viewer ratings in the popular TV series "The Office." The project leverages Python and Pandas for data cleaning, joining, and transformation, followed by exporting the processed data for use in Tableau to create interactive dashboards. The coding was done using Google Colab.
 
